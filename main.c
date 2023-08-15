@@ -6,7 +6,7 @@
 
 
 /* NIST B-409 Base x values, Base y values*/
-
+/*add r = sqrt y + x */
 __m256  _ZGVcN8v_sinf(__m256 x);
 __m256  _ZGVcN8v_cosf(__m256 x);
 
