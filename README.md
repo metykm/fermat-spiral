@@ -1,5 +1,4 @@
 # fermat-spiral
-fermat-spiral using avx intel vectors 
 
 
 
