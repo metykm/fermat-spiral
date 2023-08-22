@@ -18,6 +18,16 @@ typedef struct spiral {
  } spiral;
 
 
+/*  
+residue_narrow_t x = {
+    .branch = {
+      0x14e8b6e, 0x3553e74, 0x0464e4c, 0x61de408,
+      0x006a30e, 0x6e9b25b, 0x3e6f39e, 0x19ec754,
+      0x5c71cc3, 0x2bc1c0e, 0x554338e, 0x14e8b6e,
+    },
+  };
+Add the limbs sx.vivx*/
+
 void a(){
 
     spiral sx;
